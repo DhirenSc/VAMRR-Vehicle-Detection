@@ -287,6 +287,6 @@ NOTE: If you encounter any other problems, feel free to open an issue.
 
 Authors:
 (@nirbhayph),
-Dhiren Chandnani (@dhirensc)
+(@dhirensc)
 
 VAMRR Technologies Pvt. Ltd.
